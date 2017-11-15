@@ -1,0 +1,20 @@
+\\serv-acad\home$\ra146660\documents\visual studio 2012\Projects\LiberForum\LiberForum\bin\LiberForum.dll
+\\serv-acad\home$\ra146660\documents\visual studio 2012\Projects\LiberForum\LiberForum\bin\LiberForum.pdb
+\\serv-acad\home$\ra146660\documents\visual studio 2012\Projects\LiberForum\LiberForum\obj\Debug\LiberForum.csprojResolveAssemblyReference.cache
+\\serv-acad\home$\ra146660\documents\visual studio 2012\Projects\LiberForum\LiberForum\obj\Debug\LiberForum.dll
+\\serv-acad\home$\ra146660\documents\visual studio 2012\Projects\LiberForum\LiberForum\obj\Debug\LiberForum.pdb
+G:\EC\Framework .NET\LiberForum\LiberForum\bin\LiberForum.dll
+G:\EC\Framework .NET\LiberForum\LiberForum\bin\LiberForum.pdb
+G:\EC\Framework .NET\LiberForum\LiberForum\obj\Debug\LiberForum.csprojResolveAssemblyReference.cache
+G:\EC\Framework .NET\LiberForum\LiberForum\obj\Debug\LiberForum.dll
+G:\EC\Framework .NET\LiberForum\LiberForum\obj\Debug\LiberForum.pdb
+C:\Users\bdour\Desktop\LiberForum\LiberForum\bin\LiberForum.dll
+C:\Users\bdour\Desktop\LiberForum\LiberForum\bin\LiberForum.pdb
+C:\Users\bdour\Desktop\LiberForum\LiberForum\obj\Debug\LiberForum.csprojResolveAssemblyReference.cache
+C:\Users\bdour\Desktop\LiberForum\LiberForum\obj\Debug\LiberForum.dll
+C:\Users\bdour\Desktop\LiberForum\LiberForum\obj\Debug\LiberForum.pdb
+C:\Users\bdour\Desktop\LiberForum - Copia\LiberForum\bin\LiberForum.dll
+C:\Users\bdour\Desktop\LiberForum - Copia\LiberForum\bin\LiberForum.pdb
+C:\Users\bdour\Desktop\LiberForum - Copia\LiberForum\obj\Debug\LiberForum.csprojResolveAssemblyReference.cache
+C:\Users\bdour\Desktop\LiberForum - Copia\LiberForum\obj\Debug\LiberForum.dll
+C:\Users\bdour\Desktop\LiberForum - Copia\LiberForum\obj\Debug\LiberForum.pdb
